@@ -57,17 +57,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Shen Zhen Metro Stations are put into effect for several years, but the interaction between the users and management groups are still not that clear and direct so I created this enhanced one.
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Here's what it is:
+* Split-Stack-Developed an online metro application that includes a user system and a management system.
+* Implemented authority management, subway management, statistical analysis, and line classification management.
+* Using Spring Boot for the back-end, React+Hooks For the front-end, and Amazon S3 to store files.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Of course, no one website will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this website!
 
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
